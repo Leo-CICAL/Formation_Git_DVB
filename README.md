@@ -2,13 +2,16 @@
 
 ### 1. Installer Git 
 
-- For Windows :  [Git for Windows](https://git-scm.com/download/win)
+- For Windows :  [Git for Windows](https://git-scm.com/download/win) 
 - For MacOS      :   [Git for Mac Os](https://git-scm.com/download/mac)
 - For Linux :
 ```
 #add-apt-repository ppa:git-core/ppa
 #apt update; apt install git
 ```
+
+LORS DE L'INSTALLATION, JE VOUS CONSEILLE DE CHOISIR VS Code COMME EDITEUR DE TEXTE PAR DEFAUT (VIM C KK)
+
 ### 2. Créer un Compte Github 
 
 - [Github](https://github.com/join?source=header-home)
