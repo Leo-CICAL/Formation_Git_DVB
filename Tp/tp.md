@@ -1,6 +1,8 @@
 
 # Mini TP Git 
 
+(Oui je l'ai écrit en anglais, ça vous fait bosser en encore plus <3)
+
 Practice using git + Github
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using GIT for throughout the class. 
@@ -9,7 +11,7 @@ In the first mini-project, you'll be mimicking the steps you'll take when you fi
 
 In the second mini-project, you'll be mimicking the steps you'll take with nearly every DevMountain project you do. You'll 'fork' the DevMountain repository, link your computer with your fork, then push those changes up to your GitHub.
 
-Finally, in the last mini-project you'll be mimicking the steps you'll take during the group project portion. You'll fork your group's repo, link your computer with your fork, push changes to your GitHub, then make a 'Pull Request' into your group's repo.
+Finally, in the last mini-project you'll see the power of Git when you're programmming with a groupe !
 
 I hope you're going to like it, and I'me here if you need me ! (If I made any errors using english, sorry not sorry <3)
 
@@ -27,21 +29,21 @@ In this step we will create a repository on GitHUB.
 * Sign in to GitHub.
 * On the right side of the page, click on the green `New repository` button.
 * Give your repository any name you like (for example, 'DVBcTroKool' ) and make sure that the repository is public.
-* Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked.
+* Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked !
 
 ## Step 2
 
 ### Summary
 
-In this step we will setup the origin for the repository. We'll do this by connecting code on our computer to the GitHub repository we just created.
+In this step we will setup the origin for the GitHub repository. We'll do this by connecting code on our computer to the GitHub repository we just created.
 
 ### Instructions
 
-* Create a folder called `myProject`.
+* In your computer, create a folder called `myProject`.
 * Go into that folder.
-* Create a file called `myName.js` and add your name to that file.
+* Create a file called `myName.txt` and add your name to that file.
 * Save the file and open a terminal window (if you're on Windows, Right-Click and Select 'Open a Git Bash').
-* In your terminal window, `cd` to your `myProject` folder. O
+* In your terminal window, `cd` to your `myProject` folder (so go to your folder with the terminal).
 * Run `git init`. 
   * <details>
 
@@ -71,7 +73,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 
 ### Summary
 
-In this step, we will push code to GitHub.
+In this step, we will push code and files to GitHub.
 
 ### Instructions
 
@@ -138,7 +140,7 @@ In this step, we will fork this tutorial repository.
 
 ### Instructions
 
-* On this current GitHub repository, scroll to the top and look for a button that says `fork`.
+* On this current GitHub repository (so my repository GitHub, https://github.com/Leo-CICAL/forma_git_dvb/), scroll to the top and look for a button that says `fork`.
 * Click the `fork` button.
   * <details>
 
@@ -181,41 +183,12 @@ In this step, we will make changes to our clone and push them to GitHub.
 ### Instructions
 
 * Open the folder in your coding IDE.
-* Make a change in a file.
-* Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
+* Make a change in a file (for example, change a phrase in the ReadMe file).
+* Run through the steps outlined in `Step 3` of the first project : git status, git add, git commit and git push (WHEN YOU GIT PUSH, JUST "git push")
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
 
-## Mini-Project 3: Group Project
 
-## Step 1
-
-### Summary
-
-To help this process stick in memory we are going to repeat the process of the second project. We'll delete our current fork on our machine and restart the process.
-
-### Instructions
-
-* Delete the folder on your Desktop that is the forked repository.
-* Re-clone the fork to your desktop.
-* Make a change to any file.
-* Run through the process of pushing to GitHub ( status, diff, add, commit, push ).
-
-## Step 2
-
-### Summary
-
-Here is where things start to get different. Let's imagine we're working in groups. If we have everyone pushing to one repo without verifying the quality of the code, things can get messy pretty quick. GitHub fixed this solution with 'Pull Requests.' Basically, you fork a project, make changes to your fork, then you make a Pull Request (PR) back into the original project requesting that some piece of code be added to the original repo. This is how the vast majority of open source code projects work. In this step, we will make a pull-request.
-
-### Instructions
-
-* Go to your forked repo on GitHub.
-* Locate the button that says `Pull Request` and click it.
-* Locate the green button that says `New pull request` and click it.
-  * You should now see the file changes you've made and how they differ from the original repo.
-* Click on the `Create pull request` button to submit your PR.
-* Now if you navigate to the <a href="https://github.com/DevMountain/learn-git/pulls">original repository</a> and take a look at the `Pull Requests` yours should be there.
-
-## Mini-Project 4 : Group Project together :D
+## Mini-Project 3 : Group Project together :D
 
 ### Summary
 
@@ -224,10 +197,10 @@ You're going to clone a Private Repository with a program that you're all going 
 ### Instructions
 
 * Give me your Git's Username, because I have to had your account in the private repository that you're going to use.
-* Go to this repository :
+* Go to this repository : https://github.com/Leo-CICAL/tp_git
 * Clone it.
 * Go to the file 'name.py' and add a print with your name on it.
-* Run through the process of pushing to GitHub ( status, diff, add, commit, push ).
+* Run through the process of pushing to GitHub ( status, diff, add, commit, push).
 * You'll see whent the diffetent commit will arrive :D.
 
 ## Contributions
