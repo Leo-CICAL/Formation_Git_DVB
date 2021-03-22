@@ -10,7 +10,7 @@
 #apt update; apt install git
 ```
 
-LORS DE L'INSTALLATION, JE VOUS CONSEILLE DE CHOISIR VS Code COMME EDITEUR DE TEXTE PAR DEFAUT (VIM C KK)
+LORS DE L'INSTALLATION, JE VOUS CONSEILLE DE CHOISIR VS Code COMME EDITEUR DE TEXTE PAR DEFAUT
 
 ### 2. Créer un Compte Github 
 
@@ -22,5 +22,5 @@ Il y a beaucoup de clients pour GIT, je peux vous conseiller **SourceTree** and 
 - [GitKraken](https://www.gitkraken.com/download)
 - [SourceTree](https://www.sourcetreeapp.com/)
 
-Et vraiment, installez VS Code, c'est clairment la vie. 
+Et vraiment, installez VS Code.. 
 [VS code](https://code.visualstudio.com/)
